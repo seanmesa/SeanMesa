@@ -2,13 +2,11 @@
 
 ⭐️ About Me
 
-- Currently studying Information Technology at the University of San Carlos.
-- Interested in Software Development.
-- 1st Runner Up at Sambag Dos SK League.
-- Awarded Most Defensive Player.
-
+I'm a passionate full-stack developer with expertise in a wide range of technologies. I enjoy creating efficient, user-friendly applications and continuously learning new tools to improve my craft. When I'm not coding, you can find me exploring the latest in tech or contributing to open-source projects.
 
 ⭐️ Technology Stack
+
+<div align="center">
 
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,6 +28,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
+</div>
+
 ⭐️ Contact
 
-Feel free to reach out to me via email at seanmesa40@gmail.com
+Feel free to reach out to me via email at [your-email@example.com] or connect with me on [LinkedIn/Twitter](link).
