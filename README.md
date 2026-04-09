@@ -35,5 +35,6 @@ I'm a passionate developer with good knowledge in a wide range of technologies. 
 </div>
 
 ⭐️ Contact
-
-Feel free to reach out to me via email at seanmesa40@gmail.com
+<div align="center">
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+</div>
