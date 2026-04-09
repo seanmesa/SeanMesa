@@ -11,15 +11,7 @@ I'm a passionate full-stack developer with expertise in a wide range of technolo
 - **Databases:** SQL
 - **Languages:** C, C#
 
-## Projects
-
-Here are some of my notable projects:
-
-- [Project Name](https://github.com/SeanMesa/project-repo) - Brief description of the project.
-
-## Contact
-
-Feel free to reach out to me via email at [your-email@example.com] or connect with me on [LinkedIn/Twitter](link).
+Feel free to reach out to me via email at seanmesa40@gmail.com
 
 ---
 
