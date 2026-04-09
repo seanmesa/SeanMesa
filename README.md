@@ -2,6 +2,8 @@
 
 I'm a passionate developer with good knowledge in a wide range of technologies. I enjoy creating efficient, user-friendly applications and continuously learning new tools to improve my craft. When I'm not coding, you can find me exploring the latest in tech or contributing to open-source projects.
 
+---
+
 💻 Technology Stack
 
 <div align="center">
